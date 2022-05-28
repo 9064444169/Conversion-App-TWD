@@ -1,0 +1,11 @@
+.card-block{
+    color: white;
+}
+
+.container{
+    background-color: rgb(154, 203, 187);
+    margin-top: 10px;
+    border-radius: 10px;
+    box-shadow:7px 0px 29px 1px rgba(0,0,0,0.75);
+    padding-bottom: 10px;
+}
